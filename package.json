@@ -21,7 +21,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "npm run build",
+    "build": "npm build",
     "preview": "vite preview"
   }
 }
