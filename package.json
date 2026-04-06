@@ -20,8 +20,9 @@
     "vite": "^5.0.6"
   },
   "scripts": {
+    "build": "node ./node_modules/vite/bin/vite.js build",
     "dev": "vite",
-    "build": "vite build",
+   
     "preview": "vite preview"
   }
 }
