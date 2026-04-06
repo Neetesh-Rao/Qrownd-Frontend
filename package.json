@@ -21,8 +21,7 @@
   },
   "scripts": {
     "build": "node ./node_modules/vite/bin/vite.js build",
-    "dev": "vite",
-   
+    "dev": "node api.js && vite",
     "preview": "vite preview"
   }
 }
